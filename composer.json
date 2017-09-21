@@ -1,0 +1,12 @@
+{
+    "name": "saschaegerer/arc-plugins",
+    "description": "Custom Plugins for Phabricators Arcanist",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sascha Egerer",
+            "email": "sascha@sascha-egerer.de"
+        }
+    ],
+    "require": {}
+}
